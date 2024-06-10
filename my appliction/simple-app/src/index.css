@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+.zoomed {
+  transform: scale(1.2); /* Adjust the scale value as needed */
+  transition: transform 0.3s ease; /* Adjust the transition duration as needed */
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
